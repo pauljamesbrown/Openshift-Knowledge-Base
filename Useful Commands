@@ -1,0 +1,2 @@
+oc explain dc --recursive=true // This outputs the full yaml file description
+oc set resource -h // shows the help function for resources
